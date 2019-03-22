@@ -11,7 +11,7 @@ This webpage is A list of projects I have created with active links to their Git
 ## Setup/Installation Requirements
 
 * Clone the repository https://github.com/ghasemii0/Portfolio-Landing-Page
-* click on index.html
+* Click on index.html
 
 
 ## Technologies Used
