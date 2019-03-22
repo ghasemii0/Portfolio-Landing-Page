@@ -1,7 +1,21 @@
+body{
+  background-color: grey;
+}
 img {
   height: 250px;
-  
 }
 li{
 font-size: 150%;
+}
+
+img.cappadocia{
+  float:right;
+}
+.projects li{
+  color: orange;
+}
+.box{
+  border: 2px solid green;
+  padding: 5px;
+  margin:8px;
 }
