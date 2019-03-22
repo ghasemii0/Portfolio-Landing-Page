@@ -19,7 +19,7 @@ This webpage is A list of projects I have created with active links to their Git
 - html
 - css
 ## link to github pages
-https://ghasemii0.github.io/Portfolio-Landing-Page/
+* https://ghasemii0.github.io/Portfolio-Landing-Page/
 
 
 
